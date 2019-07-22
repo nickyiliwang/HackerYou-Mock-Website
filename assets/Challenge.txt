@@ -1,6 +1,0 @@
-Outline
-
-Please add hover states for the menu bar and buttons. It should be responsive - optimized for desktop, tablet and mobile. Do not use Bootstrap or any other external grid system. Keep in mind best practices like using proper indentation, and a separate stylesheet.
-
-On finish
-Please hand in the challenge one week from today. When you're done, please zip up your files and email them to techchallenges@hackeryou.com.
